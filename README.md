@@ -9,6 +9,7 @@ indir is the directory where the files are located
 A,B,C,D are the sample names.
 
 >perl cmp_as.pl A:B as_merge.xls
+
 as_merge.xls is the output from merge_as.pl
 
 
